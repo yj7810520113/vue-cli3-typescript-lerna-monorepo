@@ -1,12 +1,12 @@
 {
   "name": "@mc.gl/testts",
   "version": "0.0.4",
-  "publicConfig": {
+  "publishConfig": {
     "access": "public"
   },
   "description": "",
   "main": "index.ts",
   "author": "tracert_it",
   "license": "MIT",
-  "gitHead": "0ab2ebb0ac15219055cade7f7175e83d8b100780"
+  "gitHead": "1cd29fec40980599b55aa1cd82767d615bdedd14"
 }
