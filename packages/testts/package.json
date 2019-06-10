@@ -4,5 +4,6 @@
   "description": "",
   "main": "index.ts",
   "author": "tracert_it",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "a7a729911b918a02b8addd815e66702c9e671daa"
 }

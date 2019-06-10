@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "lib": "lerna  publish",
