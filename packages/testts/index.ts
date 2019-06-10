@@ -1,5 +1,5 @@
 var deepAssign = require('clone-deep')
-function test(str: string): object {
+function test(str: string) {
   let obj = deepAssign({ key: str })
   return obj
 }
