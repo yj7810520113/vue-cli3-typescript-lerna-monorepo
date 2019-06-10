@@ -1,12 +1,12 @@
 import Vue from 'vue'
-import App from './App'
-import router from './router'
+// eslint-disable-next-line
+import App from './App.vue'
+import router from './router/index'
 // import Ui from '@/ui'
 import '@/assets/icon/css/font-awesome.min.css'
 
 // Vue.use(Ui)
 new Vue({
   router,
-  render: h => h(App),
+  render: (h) => h(App)
 }).$mount('#app')
-

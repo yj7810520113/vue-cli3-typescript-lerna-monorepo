@@ -1,7 +1,7 @@
-const nodeExternals = require('webpack-node-externals');
-const path = require('path');
+const nodeExternals = require('webpack-node-externals')
+const path = require('path')
 
-let configureWebpack = {};
+let configureWebpack = {}
 
 configureWebpack.externals = [
   {
@@ -14,8 +14,7 @@ configureWebpack.externals = [
   nodeExternals({
     modulesDir: path.resolve(__dirname, 'node_modules')
   })
-];
-
+]
 
 module.exports = {
   publicPath: '',
@@ -34,9 +33,9 @@ module.exports = {
     webpackConfig.module
       .rule('fonts')
       .use('url-loader')
-      .tap(options => Object.assign(options, { limit: 10 }));
+      .tap((options) => Object.assign(options, { limit: 10 }))
 
-    //stylelint
+    // stylelint
     // webpackConfig
     //   .plugin('stylelint')
     //   .use('stylelint-webpack-plugin')
@@ -48,6 +47,6 @@ module.exports = {
     //         emitErrors: true
     //       }
     //     ];
-    //   });  
-  } 
+    //   });
+  }
 }

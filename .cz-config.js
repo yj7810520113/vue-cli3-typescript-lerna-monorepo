@@ -25,12 +25,6 @@ module.exports = {
     { value: 'revert', name: 'revert:   Revert to a commit' },
     { value: 'WIP', name: 'WIP:      Work in progress' },
   ],
-
-  scopes: [
-    { name: '@ziyi2' }, 
-    { name: '@ziyi2/button' }
-  ],
-
   allowTicketNumber: false,
   isTicketNumberRequired: false,
   ticketNumberPrefix: 'TICKET-',

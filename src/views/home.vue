@@ -1,24 +1,26 @@
 <template>
   <div>
     vue lerna monorepo test
-    <alert></alert>
+    <alert/>
   </div>
 </template>
 
 <script>
 import alert from '@mc.gl/alert'
+import testTs from '@mc.gl/testts'
 export default {
-  name: 'home',
+  name: 'Home',
   components: {
     alert
-  },
-  created() {
-    // console.log('init vue')
-    // console.log(alert)
   },
   data() {
     return {
     }
+  },
+  created() {
+    // console.log('init vue')
+    // console.log(alert)
+    console.log(testTs(1))
   },
 
   methods: {

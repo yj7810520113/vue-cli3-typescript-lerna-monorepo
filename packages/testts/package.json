@@ -1,8 +1,8 @@
 {
-  "name": "@mc.gl/alert",
+  "name": "@mc.gl/testts",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "author": "tracert_it",
   "license": "ISC"
 }

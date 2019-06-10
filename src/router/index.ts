@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 
-const Home = resolve => require(['@/views/home'], resolve)
+const Home: any = (resolve): any => require(['@/views/home'], resolve)
 
 Vue.use(Router)
 

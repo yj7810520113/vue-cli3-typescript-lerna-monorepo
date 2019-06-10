@@ -1,19 +1,11 @@
 <template>
   <div id="app">
-    <div>hello</div>
-    <router-view></router-view>
+    <router-view />
   </div>
 </template>
 
-<script>
-export default {
-  name: 'app'
-}
+<script lang="ts">
+import { Vue, Component } from 'vue-property-decorator'
+@Component
+export default class App extends Vue {}
 </script>
-
-<style>
-#app {
-  padding-bottom: 20px;
-}
-</style>
-
