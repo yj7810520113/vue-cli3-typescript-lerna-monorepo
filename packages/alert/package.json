@@ -1,9 +1,12 @@
 {
   "name": "@mc.gl/alert",
   "version": "0.0.3",
+  "publicConfig": {
+    "access": "public"
+  },
   "description": "",
   "main": "index.js",
   "author": "tracert_it",
-  "license": "ISC",
-  "gitHead": "a7a729911b918a02b8addd815e66702c9e671daa"
+  "license": "MIT",
+  "gitHead": "0ab2ebb0ac15219055cade7f7175e83d8b100780"
 }

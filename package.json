@@ -1,5 +1,6 @@
 {
   "private": false,
+  "name": "mc.gl",
   "scripts": {
     "serve": "vue-cli-service serve",
     "lib": "lerna  publish",
