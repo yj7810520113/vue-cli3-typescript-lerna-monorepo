@@ -8,5 +8,8 @@
   "main": "index.ts",
   "author": "tracert_it",
   "license": "MIT",
-  "gitHead": "1cd29fec40980599b55aa1cd82767d615bdedd14"
+  "gitHead": "1cd29fec40980599b55aa1cd82767d615bdedd14",
+  "dependencies": {
+    "clone-deep": "^4.0.1"
+  }
 }
