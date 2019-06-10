@@ -1,6 +1,7 @@
 {
   "private": false,
   "name": "mc.gl",
+  "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
     "lib": "lerna  publish",
@@ -8,7 +9,9 @@
     "lint": "vue-cli-service lint",
     "bootstrap": "lerna bootstrap",
     "cz:changelog": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
-    "deploy": "npm run build && gh-pages -d dist"
+    "deploy": "npm run build && gh-pages -d dist",
+    "release": "lerna run tsc && lerna publish",
+    "commit": "git-cz"
   },
   "dependencies": {
     "vue": "^2.6.6",
