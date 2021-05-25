@@ -678,7 +678,7 @@
 
 "@commitlint/cli@^7.2.1":
   version "7.6.1"
-  resolved "http://r.cnpmjs.org/@commitlint/cli/download/@commitlint/cli-7.6.1.tgz#a93cf995082831999937f6d5ec1a582c8fc0393a"
+  resolved "https://r.cnpmjs.org/@commitlint/cli/download/@commitlint/cli-7.6.1.tgz#a93cf995082831999937f6d5ec1a582c8fc0393a"
   dependencies:
     "@commitlint/format" "^7.6.1"
     "@commitlint/lint" "^7.6.0"
@@ -694,36 +694,36 @@
 
 "@commitlint/config-conventional@^7.1.2":
   version "7.6.0"
-  resolved "http://r.cnpmjs.org/@commitlint/config-conventional/download/@commitlint/config-conventional-7.6.0.tgz#f3dc66bf39e3b627fdd6f5ac3d0510dd0dd38f94"
+  resolved "https://r.cnpmjs.org/@commitlint/config-conventional/download/@commitlint/config-conventional-7.6.0.tgz#f3dc66bf39e3b627fdd6f5ac3d0510dd0dd38f94"
 
 "@commitlint/ensure@^7.6.0":
   version "7.6.0"
-  resolved "http://r.cnpmjs.org/@commitlint/ensure/download/@commitlint/ensure-7.6.0.tgz#e873ff6786a3b9504e88a4debed41df29cd8ac36"
+  resolved "https://r.cnpmjs.org/@commitlint/ensure/download/@commitlint/ensure-7.6.0.tgz#e873ff6786a3b9504e88a4debed41df29cd8ac36"
   dependencies:
     lodash "4.17.11"
 
 "@commitlint/execute-rule@^7.6.0":
   version "7.6.0"
-  resolved "http://r.cnpmjs.org/@commitlint/execute-rule/download/@commitlint/execute-rule-7.6.0.tgz#60c1c34b5f2fca6c6cbca019a9c7d81c2fab1e4a"
+  resolved "https://r.cnpmjs.org/@commitlint/execute-rule/download/@commitlint/execute-rule-7.6.0.tgz#60c1c34b5f2fca6c6cbca019a9c7d81c2fab1e4a"
   dependencies:
     babel-runtime "6.26.0"
 
 "@commitlint/format@^7.6.1":
   version "7.6.1"
-  resolved "http://r.cnpmjs.org/@commitlint/format/download/@commitlint/format-7.6.1.tgz#106750de50fab7d153eed80e7577c768bb9a3a1b"
+  resolved "https://r.cnpmjs.org/@commitlint/format/download/@commitlint/format-7.6.1.tgz#106750de50fab7d153eed80e7577c768bb9a3a1b"
   dependencies:
     babel-runtime "^6.23.0"
     chalk "^2.0.1"
 
 "@commitlint/is-ignored@^7.6.0":
   version "7.6.0"
-  resolved "http://r.cnpmjs.org/@commitlint/is-ignored/download/@commitlint/is-ignored-7.6.0.tgz#d069f25741dcf859b324e5f709835af3aac9cf45"
+  resolved "https://r.cnpmjs.org/@commitlint/is-ignored/download/@commitlint/is-ignored-7.6.0.tgz#d069f25741dcf859b324e5f709835af3aac9cf45"
   dependencies:
     semver "6.0.0"
 
 "@commitlint/lint@^7.6.0":
   version "7.6.0"
-  resolved "http://r.cnpmjs.org/@commitlint/lint/download/@commitlint/lint-7.6.0.tgz#a6da320026b937aa9bf971e060e471edd6b088ec"
+  resolved "https://r.cnpmjs.org/@commitlint/lint/download/@commitlint/lint-7.6.0.tgz#a6da320026b937aa9bf971e060e471edd6b088ec"
   dependencies:
     "@commitlint/is-ignored" "^7.6.0"
     "@commitlint/parse" "^7.6.0"
@@ -733,7 +733,7 @@
 
 "@commitlint/load@^7.6.1":
   version "7.6.2"
-  resolved "http://r.cnpmjs.org/@commitlint/load/download/@commitlint/load-7.6.2.tgz#b5ed8163fa3117d60faf70a4e677b2017bbc71bb"
+  resolved "https://r.cnpmjs.org/@commitlint/load/download/@commitlint/load-7.6.2.tgz#b5ed8163fa3117d60faf70a4e677b2017bbc71bb"
   dependencies:
     "@commitlint/execute-rule" "^7.6.0"
     "@commitlint/resolve-extends" "^7.6.0"
@@ -744,11 +744,11 @@
 
 "@commitlint/message@^7.6.0":
   version "7.6.0"
-  resolved "http://r.cnpmjs.org/@commitlint/message/download/@commitlint/message-7.6.0.tgz#899b6b411945dd091d261408b6e994043967bc06"
+  resolved "https://r.cnpmjs.org/@commitlint/message/download/@commitlint/message-7.6.0.tgz#899b6b411945dd091d261408b6e994043967bc06"
 
 "@commitlint/parse@^7.6.0":
   version "7.6.0"
-  resolved "http://r.cnpmjs.org/@commitlint/parse/download/@commitlint/parse-7.6.0.tgz#e7b8d6dc145e78cf56940bbf405ca6fac3085196"
+  resolved "https://r.cnpmjs.org/@commitlint/parse/download/@commitlint/parse-7.6.0.tgz#e7b8d6dc145e78cf56940bbf405ca6fac3085196"
   dependencies:
     conventional-changelog-angular "^1.3.3"
     conventional-commits-parser "^2.1.0"
@@ -756,7 +756,7 @@
 
 "@commitlint/read@^7.6.0":
   version "7.6.0"
-  resolved "http://r.cnpmjs.org/@commitlint/read/download/@commitlint/read-7.6.0.tgz#e55863354b436683daa2081de7ec2189573bc306"
+  resolved "https://r.cnpmjs.org/@commitlint/read/download/@commitlint/read-7.6.0.tgz#e55863354b436683daa2081de7ec2189573bc306"
   dependencies:
     "@commitlint/top-level" "^7.6.0"
     "@marionebl/sander" "^0.6.0"
@@ -765,7 +765,7 @@
 
 "@commitlint/resolve-extends@^7.6.0":
   version "7.6.0"
-  resolved "http://r.cnpmjs.org/@commitlint/resolve-extends/download/@commitlint/resolve-extends-7.6.0.tgz#0680b76eeb0e41f728c2f38645473a0956299edb"
+  resolved "https://r.cnpmjs.org/@commitlint/resolve-extends/download/@commitlint/resolve-extends-7.6.0.tgz#0680b76eeb0e41f728c2f38645473a0956299edb"
   dependencies:
     babel-runtime "6.26.0"
     import-fresh "^3.0.0"
@@ -775,7 +775,7 @@
 
 "@commitlint/rules@^7.6.0":
   version "7.6.0"
-  resolved "http://r.cnpmjs.org/@commitlint/rules/download/@commitlint/rules-7.6.0.tgz#f9a833c1eab8144fd8f545a71408b39e51acb64e"
+  resolved "https://r.cnpmjs.org/@commitlint/rules/download/@commitlint/rules-7.6.0.tgz#f9a833c1eab8144fd8f545a71408b39e51acb64e"
   dependencies:
     "@commitlint/ensure" "^7.6.0"
     "@commitlint/message" "^7.6.0"
@@ -784,11 +784,11 @@
 
 "@commitlint/to-lines@^7.6.0":
   version "7.6.0"
-  resolved "http://r.cnpmjs.org/@commitlint/to-lines/download/@commitlint/to-lines-7.6.0.tgz#5ed4dbf39db0ceff96dbb661b9ce048ed3db7a4b"
+  resolved "https://r.cnpmjs.org/@commitlint/to-lines/download/@commitlint/to-lines-7.6.0.tgz#5ed4dbf39db0ceff96dbb661b9ce048ed3db7a4b"
 
 "@commitlint/top-level@^7.6.0":
   version "7.6.0"
-  resolved "http://r.cnpmjs.org/@commitlint/top-level/download/@commitlint/top-level-7.6.0.tgz#0ed88078ac585c93ee314ff3b7f8c20143c57652"
+  resolved "https://r.cnpmjs.org/@commitlint/top-level/download/@commitlint/top-level-7.6.0.tgz#0ed88078ac585c93ee314ff3b7f8c20143c57652"
   dependencies:
     find-up "^2.1.0"
 
@@ -1527,7 +1527,7 @@
 
 "@marionebl/sander@^0.6.0":
   version "0.6.1"
-  resolved "http://r.cnpmjs.org/@marionebl/sander/download/@marionebl/sander-0.6.1.tgz#1958965874f24bc51be48875feb50d642fc41f7b"
+  resolved "https://r.cnpmjs.org/@marionebl/sander/download/@marionebl/sander-0.6.1.tgz#1958965874f24bc51be48875feb50d642fc41f7b"
   dependencies:
     graceful-fs "^4.1.3"
     mkdirp "^0.5.1"
@@ -2816,7 +2816,7 @@ babel-plugin-transform-strict-mode@^6.24.1:
 
 babel-polyfill@6.26.0:
   version "6.26.0"
-  resolved "http://r.cnpmjs.org/babel-polyfill/download/babel-polyfill-6.26.0.tgz#379937abc67d7895970adc621f284cd966cf2153"
+  resolved "https://r.cnpmjs.org/babel-polyfill/download/babel-polyfill-6.26.0.tgz#379937abc67d7895970adc621f284cd966cf2153"
   dependencies:
     babel-runtime "^6.26.0"
     core-js "^2.5.0"
@@ -3103,21 +3103,15 @@ browserify-zlib@^0.2.0:
   dependencies:
     pako "~1.0.5"
 
-browserslist@^4.0.0, browserslist@^4.3.4:
-  version "4.5.4"
-  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.5.4.tgz#166c4ecef3b51737a42436ea8002aeea466ea2c7"
+browserslist@^4.0.0, browserslist@^4.3.4, browserslist@^4.5.4, browserslist@^4.6.1:
+  version "4.16.6"
+  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.16.6.tgz#d7901277a5a88e554ed305b183ec9b0c08f66fa2"
   dependencies:
-    caniuse-lite "^1.0.30000955"
-    electron-to-chromium "^1.3.122"
-    node-releases "^1.1.13"
-
-browserslist@^4.5.4, browserslist@^4.6.1:
-  version "4.6.2"
-  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.6.2.tgz#574c665950915c2ac73a4594b8537a9eba26203f"
-  dependencies:
-    caniuse-lite "^1.0.30000974"
-    electron-to-chromium "^1.3.150"
-    node-releases "^1.1.23"
+    caniuse-lite "^1.0.30001219"
+    colorette "^1.2.2"
+    electron-to-chromium "^1.3.723"
+    escalade "^3.1.1"
+    node-releases "^1.1.71"
 
 bs-logger@0.x:
   version "0.2.6"
@@ -3325,13 +3319,9 @@ caniuse-api@^3.0.0:
     lodash.memoize "^4.1.2"
     lodash.uniq "^4.5.0"
 
-caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000955:
-  version "1.0.30000957"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000957.tgz#fb1026bf184d7d62c685205358c3b24b9e29f7b3"
-
-caniuse-lite@^1.0.30000971, caniuse-lite@^1.0.30000974:
-  version "1.0.30000974"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000974.tgz#b7afe14ee004e97ce6dc73e3f878290a12928ad8"
+caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000971, caniuse-lite@^1.0.30001219:
+  version "1.0.30001228"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001228.tgz#bfdc5942cd3326fa51ee0b42fbef4da9d492a7fa"
 
 capture-exit@^1.2.0:
   version "1.2.0"
@@ -3355,7 +3345,7 @@ caseless@~0.12.0:
 
 chalk@2.3.1:
   version "2.3.1"
-  resolved "http://r.cnpmjs.org/chalk/download/chalk-2.3.1.tgz#523fe2678aec7b04e8041909292fe8b17059b796"
+  resolved "https://r.cnpmjs.org/chalk/download/chalk-2.3.1.tgz#523fe2678aec7b04e8041909292fe8b17059b796"
   dependencies:
     ansi-styles "^3.2.0"
     escape-string-regexp "^1.0.5"
@@ -3593,6 +3583,10 @@ color@^3.0.0:
     color-convert "^1.9.1"
     color-string "^1.5.2"
 
+colorette@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/colorette/-/colorette-1.2.2.tgz#cbcc79d5e99caea2dbf10eb3a26fd8b3e6acfa94"
+
 columnify@^1.5.4:
   version "1.5.4"
   resolved "https://registry.yarnpkg.com/columnify/-/columnify-1.5.4.tgz#4737ddf1c7b69a8a7c340570782e947eec8e78bb"
@@ -3747,7 +3741,7 @@ content-type@~1.0.4:
 
 conventional-changelog-angular@^1.3.3:
   version "1.6.6"
-  resolved "http://r.cnpmjs.org/conventional-changelog-angular/download/conventional-changelog-angular-1.6.6.tgz#b27f2b315c16d0a1f23eb181309d0e6a4698ea0f"
+  resolved "https://r.cnpmjs.org/conventional-changelog-angular/download/conventional-changelog-angular-1.6.6.tgz#b27f2b315c16d0a1f23eb181309d0e6a4698ea0f"
   dependencies:
     compare-func "^1.3.1"
     q "^1.5.1"
@@ -3867,7 +3861,7 @@ conventional-commits-filter@^2.0.1:
 
 conventional-commits-parser@^2.1.0:
   version "2.1.7"
-  resolved "http://r.cnpmjs.org/conventional-commits-parser/download/conventional-commits-parser-2.1.7.tgz#eca45ed6140d72ba9722ee4132674d639e644e8e"
+  resolved "https://r.cnpmjs.org/conventional-commits-parser/download/conventional-commits-parser-2.1.7.tgz#eca45ed6140d72ba9722ee4132674d639e644e8e"
   dependencies:
     JSONStream "^1.0.4"
     is-text-path "^1.0.0"
@@ -3976,7 +3970,7 @@ cosmiconfig@^5.0.0, cosmiconfig@^5.0.7, cosmiconfig@^5.1.0:
 
 cosmiconfig@^5.2.0:
   version "5.2.1"
-  resolved "http://r.cnpmjs.org/cosmiconfig/download/cosmiconfig-5.2.1.tgz#040f726809c591e77a17c0a3626ca45b4f168b1a"
+  resolved "https://r.cnpmjs.org/cosmiconfig/download/cosmiconfig-5.2.1.tgz#040f726809c591e77a17c0a3626ca45b4f168b1a"
   dependencies:
     import-fresh "^2.0.0"
     is-directory "^0.3.1"
@@ -4655,13 +4649,9 @@ ejs@^2.6.1:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/ejs/-/ejs-2.6.1.tgz#498ec0d495655abc6f23cd61868d926464071aa0"
 
-electron-to-chromium@^1.3.122:
-  version "1.3.124"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.124.tgz#861fc0148748a11b3e5ccebdf8b795ff513fa11f"
-
-electron-to-chromium@^1.3.150:
-  version "1.3.155"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.155.tgz#ebf0cc8eeaffd6151d1efad60fd9e021fb45fd3a"
+electron-to-chromium@^1.3.723:
+  version "1.3.737"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.737.tgz#196f2e9656f4f3c31930750e1899c091b72d36b5"
 
 elliptic@^6.0.0:
   version "6.4.1"
@@ -4765,6 +4755,10 @@ es6-promisify@^5.0.0:
   resolved "https://registry.yarnpkg.com/es6-promisify/-/es6-promisify-5.0.0.tgz#5109d62f3e56ea967c4b63505aef08291c8a5203"
   dependencies:
     es6-promise "^4.0.3"
+
+escalade@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/escalade/-/escalade-3.1.1.tgz#d8cfdc7000965c5a0174b4a82eaa5c0552742e40"
 
 escape-html@~1.0.3:
   version "1.0.3"
@@ -5745,7 +5739,7 @@ get-port@^3.2.0:
 
 get-stdin@7.0.0:
   version "7.0.0"
-  resolved "http://r.cnpmjs.org/get-stdin/download/get-stdin-7.0.0.tgz#8d5de98f15171a125c5e516643c7a6d0ea8a96f6"
+  resolved "https://r.cnpmjs.org/get-stdin/download/get-stdin-7.0.0.tgz#8d5de98f15171a125c5e516643c7a6d0ea8a96f6"
 
 get-stdin@^4.0.1:
   version "4.0.1"
@@ -5800,7 +5794,7 @@ git-raw-commits@2.0.0:
 
 git-raw-commits@^1.3.0:
   version "1.3.6"
-  resolved "http://r.cnpmjs.org/git-raw-commits/download/git-raw-commits-1.3.6.tgz#27c35a32a67777c1ecd412a239a6c19d71b95aff"
+  resolved "https://r.cnpmjs.org/git-raw-commits/download/git-raw-commits-1.3.6.tgz#27c35a32a67777c1ecd412a239a6c19d71b95aff"
   dependencies:
     dargs "^4.0.1"
     lodash.template "^4.0.2"
@@ -5878,7 +5872,7 @@ glob@7.1.3, glob@^7.0.0, glob@^7.0.3, glob@^7.1.1, glob@^7.1.2, glob@^7.1.3:
 
 global-dirs@^0.1.1:
   version "0.1.1"
-  resolved "http://r.cnpmjs.org/global-dirs/download/global-dirs-0.1.1.tgz#b319c0dd4607f353f3be9cca4c72fc148c49f445"
+  resolved "https://r.cnpmjs.org/global-dirs/download/global-dirs-0.1.1.tgz#b319c0dd4607f353f3be9cca4c72fc148c49f445"
   dependencies:
     ini "^1.3.4"
 
@@ -8178,7 +8172,7 @@ memory-fs@^0.4.0, memory-fs@^0.4.1, memory-fs@~0.4.1:
 
 meow@5.0.0:
   version "5.0.0"
-  resolved "http://r.cnpmjs.org/meow/download/meow-5.0.0.tgz#dfc73d63a9afc714a5e371760eb5c88b91078aa4"
+  resolved "https://r.cnpmjs.org/meow/download/meow-5.0.0.tgz#dfc73d63a9afc714a5e371760eb5c88b91078aa4"
   dependencies:
     camelcase-keys "^4.0.0"
     decamelize-keys "^1.0.0"
@@ -8684,17 +8678,9 @@ node-pre-gyp@^0.12.0:
     semver "^5.3.0"
     tar "^4"
 
-node-releases@^1.1.13:
-  version "1.1.13"
-  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.13.tgz#8c03296b5ae60c08e2ff4f8f22ae45bd2f210083"
-  dependencies:
-    semver "^5.3.0"
-
-node-releases@^1.1.23:
-  version "1.1.23"
-  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.23.tgz#de7409f72de044a2fa59c097f436ba89c39997f0"
-  dependencies:
-    semver "^5.3.0"
+node-releases@^1.1.71:
+  version "1.1.72"
+  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.72.tgz#14802ab6b1039a79a0c7d662b610a5bbd76eacbe"
 
 "nopt@2 || 3":
   version "3.0.6"
@@ -10171,7 +10157,7 @@ regenerate@^1.2.1, regenerate@^1.4.0:
 
 regenerator-runtime@^0.10.5:
   version "0.10.5"
-  resolved "http://r.cnpmjs.org/regenerator-runtime/download/regenerator-runtime-0.10.5.tgz#336c3efc1220adcedda2c9fab67b5a7955a33658"
+  resolved "https://r.cnpmjs.org/regenerator-runtime/download/regenerator-runtime-0.10.5.tgz#336c3efc1220adcedda2c9fab67b5a7955a33658"
 
 regenerator-runtime@^0.11.0:
   version "0.11.1"
@@ -10368,7 +10354,7 @@ resolve-dir@^1.0.0, resolve-dir@^1.0.1:
 
 resolve-from@5.0.0, resolve-from@^5.0.0:
   version "5.0.0"
-  resolved "http://r.cnpmjs.org/resolve-from/download/resolve-from-5.0.0.tgz#c35225843df8f776df21c57557bc087e9dfdfc69"
+  resolved "https://r.cnpmjs.org/resolve-from/download/resolve-from-5.0.0.tgz#c35225843df8f776df21c57557bc087e9dfdfc69"
 
 resolve-from@^1.0.0:
   version "1.0.1"
@@ -10384,7 +10370,7 @@ resolve-from@^4.0.0:
 
 resolve-global@1.0.0, resolve-global@^1.0.0:
   version "1.0.0"
-  resolved "http://r.cnpmjs.org/resolve-global/download/resolve-global-1.0.0.tgz#a2a79df4af2ca3f49bf77ef9ddacd322dad19255"
+  resolved "https://r.cnpmjs.org/resolve-global/download/resolve-global-1.0.0.tgz#a2a79df4af2ca3f49bf77ef9ddacd322dad19255"
   dependencies:
     global-dirs "^0.1.1"
 
@@ -10441,7 +10427,7 @@ right-pad@^1.0.1:
 
 rimraf@2, rimraf@2.6.3, rimraf@^2.5.2, rimraf@^2.5.4, rimraf@^2.6.1, rimraf@^2.6.2, rimraf@^2.6.3, rimraf@~2.6.2:
   version "2.6.3"
-  resolved "http://r.cnpmjs.org/rimraf/download/rimraf-2.6.3.tgz#b2d104fe0d8fb27cf9e0a1cda8262dd3833c6cab"
+  resolved "https://r.cnpmjs.org/rimraf/download/rimraf-2.6.3.tgz#b2d104fe0d8fb27cf9e0a1cda8262dd3833c6cab"
   dependencies:
     glob "^7.1.3"
 
@@ -10595,7 +10581,7 @@ semver@5.5.0:
 
 semver@6.0.0:
   version "6.0.0"
-  resolved "http://r.cnpmjs.org/semver/download/semver-6.0.0.tgz#05e359ee571e5ad7ed641a6eec1e547ba52dea65"
+  resolved "https://r.cnpmjs.org/semver/download/semver-6.0.0.tgz#05e359ee571e5ad7ed641a6eec1e547ba52dea65"
 
 semver@^6.0.0, semver@^6.1.1:
   version "6.1.1"
@@ -12485,7 +12471,7 @@ yallist@^3.0.0, yallist@^3.0.2:
 
 yargs-parser@10.x, yargs-parser@^10.0.0:
   version "10.1.0"
-  resolved "http://r.cnpmjs.org/yargs-parser/download/yargs-parser-10.1.0.tgz#7202265b89f7e9e9f2e5765e0fe735a905edbaa8"
+  resolved "https://r.cnpmjs.org/yargs-parser/download/yargs-parser-10.1.0.tgz#7202265b89f7e9e9f2e5765e0fe735a905edbaa8"
   dependencies:
     camelcase "^4.1.0"
 
